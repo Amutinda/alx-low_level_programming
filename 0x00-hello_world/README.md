@@ -1,0 +1,1 @@
+The first script run a C file through the preprocessor then save it in another file
