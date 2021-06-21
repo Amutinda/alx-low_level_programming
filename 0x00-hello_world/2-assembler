@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S -O -o Prog.asm Prog.c\n
+gcc -c $FILE
