@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 /**
 *main-prints the output of the printf function
@@ -10,12 +11,12 @@ int main(void)
 char c;
 int i;
 long li;
-long long int lli;
+long long int lld;
 float  f;
-printf("Size of a char: %c bytes(s)\n", sizeof(c));
-printf("Size of an int: %d byte(s)\n", sizeof(i));
-printf("Size of a long int: %ld byte(s)\n", sizeof(li));
-printf("Size of long long int: %lld byte(s)\n", sizeof(lli));
-printf("Size of a float: %f byte(s)\n", sizeof(f));
+printf("Size of a char: %zu bytes(s)\n", sizeof(c));
+printf("Size of an int: %zu byte(s)\n", sizeof(i));
+printf("Size of a long int: %zu byte(s)\n", sizeof(li));
+printf("Size of long long int: %zu byte(s)\n", sizeof(lld));
+printf("Size of a float: %zu byte(s)\n", sizeof(f));
 return (0);
 }
