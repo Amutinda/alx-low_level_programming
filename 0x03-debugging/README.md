@@ -1,1 +1,1 @@
-debugging
+this folder contains debugging programs
