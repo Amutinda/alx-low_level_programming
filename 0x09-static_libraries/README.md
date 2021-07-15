@@ -1,1 +1,1 @@
-this directory is about static libraries
+This directory is all about static libraries
