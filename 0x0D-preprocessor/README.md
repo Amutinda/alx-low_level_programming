@@ -1,1 +1,1 @@
-this a directory about preprocessor
+this directory is about the preprocessor
